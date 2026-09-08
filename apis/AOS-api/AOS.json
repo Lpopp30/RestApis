@@ -1,0 +1,706 @@
+[
+  {
+    "navn": "Phil Coulson",
+    "rolle": "S.H.I.E.L.D. Director / Agent",
+    "saeson": 1,
+    "race": "Menneske / Kree-genoplivet / LMD"
+  },
+  {
+    "navn": "Daisy 'Skye' Johnson (Quake)",
+    "rolle": "Inhuman Agent / Hacker",
+    "saeson": 1,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Melinda May",
+    "rolle": "Ekspertpilot / Kampsportspecialist",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Leo Fitz",
+    "rolle": "Engineering- og våbenteknologiekspert",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Jemma Simmons",
+    "rolle": "Biokemiker / Forsker",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Grant Ward",
+    "rolle": "Black Ops Specialist / Hydra Agent",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Mike Peterson (Deathlok)",
+    "rolle": "S.H.I.E.L.D. Agent / Super-soldat / Deathlok",
+    "saeson": 1,
+    "race": "Menneske / Cyborg"
+  },
+  {
+    "navn": "Antoine Triplett",
+    "rolle": "S.H.I.E.L.D. Specialist Agent",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Raina",
+    "rolle": "Centipede-Rekrutterer / Inhuman",
+    "saeson": 1,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "John Garrett",
+    "rolle": "S.H.I.E.L.D. Agent / Hydra Leder",
+    "saeson": 1,
+    "race": "Menneske / Cyborg"
+  },
+  {
+    "navn": "Ian Quinn",
+    "rolle": "Forretningsmand / Quinn Worldwide CEO",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Victoria Hand",
+    "rolle": "S.H.I.E.L.D. Højtstående Agent",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Glenn Talbot",
+    "rolle": "General / Militærleder",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Lorelei",
+    "rolle": "Asgardisk Forfører",
+    "saeson": 1,
+    "race": "Asgardian"
+  },
+  {
+    "navn": "Marcus Daniels (Blackout)",
+    "rolle": "Superpowered Kriminel",
+    "saeson": 1,
+    "race": "Menneske / Energivæsen"
+  },
+  {
+    "navn": "Alphonso 'Mack' MacKenzie",
+    "rolle": "Mekaniker / S.H.I.E.L.D. Agent / Director",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Lance Hunter",
+    "rolle": "Lejesoldat / S.H.I.E.L.D. Agent",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Bobbi Morse (Mockingbird)",
+    "rolle": "S.H.I.E.L.D. Feltagent / Kampsportsekspert",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Barbara Morse",
+    "rolle": "S.H.I.E.L.D. Agent / Spion",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Jiaying",
+    "rolle": "Inhuman Leder / Afterlife Leder",
+    "saeson": 2,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Lincoln Campbell",
+    "rolle": "Inhuman / S.H.I.E.L.D. Agent",
+    "saeson": 2,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Calvin Zabo (Mr. Hyde)",
+    "rolle": "Læge / Daisys far",
+    "saeson": 2,
+    "race": "Menneske / Genetisk modificeret"
+  },
+  {
+    "navn": "Daniel Whitehall",
+    "rolle": "Hydra Leder / Forsker",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Gordon",
+    "rolle": "Inhuman Transportør",
+    "saeson": 2,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Carl Creel (Absorbing Man)",
+    "rolle": "Lejesoldat / Hydra Asset",
+    "saeson": 2,
+    "race": "Menneske / Superhuman"
+  },
+  {
+    "navn": "Sunil Bakshi",
+    "rolle": "Hydra Agent / Forhørsleder",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Christian Ward",
+    "rolle": "Politiker / Grants bror",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Werner von Strucker",
+    "rolle": "Hydra Agent",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Rosalind Price",
+    "rolle": "Leder af ATCU",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Elena 'Yo-Yo' Rodriguez",
+    "rolle": "Inhuman / S.H.I.E.L.D. Feltagent",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Holden Radcliffe",
+    "rolle": "Transhumanist Forsker / LMD-skaber",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Hive",
+    "rolle": "Inhuman Parasit / Hydra Gud",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Gideon Malick",
+    "rolle": "Hydra Leder / Verdenssikkerhedsrådsmedlem",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Andrew Garner",
+    "rolle": "Psykolog / S.H.I.E.L.D. Konsulent",
+    "saeson": 3,
+    "race": "Menneske / Inhuman"
+  },
+  {
+    "navn": "Lucio",
+    "rolle": "Inhuman / Colombiansk Politibetjent",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Alisha Whitley",
+    "rolle": "Inhuman / Telekinetisk Klon",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Joey Gutierrez",
+    "rolle": "Inhuman / S.H.I.E.L.D. Rekrutt",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Robbie Reyes (Ghost Rider)",
+    "rolle": "Vigilante / Ghost Rider",
+    "saeson": 4,
+    "race": "Menneske / Besat af Hævnens Ånd"
+  },
+  {
+    "navn": "Gabriel Reyes",
+    "rolle": "Robbies bror",
+    "saeson": 4,
+    "race": "Menneske"
+  },
+  {
+    "navn": "AIDA / Ophelia",
+    "rolle": "LMD / Kunstig Intelligens",
+    "saeson": 4,
+    "race": "LMD / Kunstig intelligens"
+  },
+  {
+    "navn": "Jeffrey Mace (Patriot)",
+    "rolle": "S.H.I.E.L.D. Director",
+    "saeson": 4,
+    "race": "Menneske / Forbedret menneske"
+  },
+  {
+    "navn": "Anton Ivanov (The Superior)",
+    "rolle": "Watchdogs Leder",
+    "saeson": 4,
+    "race": "Menneske / LMD"
+  },
+  {
+    "navn": "Lucy Bauer",
+    "rolle": "Forskningsekspert / Spøgelsesagtigt Væsen",
+    "saeson": 4,
+    "race": "Menneske / Spøgelse"
+  },
+  {
+    "navn": "Joseph Bauer",
+    "rolle": "Forskningsekspert",
+    "saeson": 4,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Eli Morrow",
+    "rolle": "Ingeniør / Robbie Reyes' onkel",
+    "saeson": 4,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Enoch",
+    "rolle": "Antropolog / Chronicom / S.H.I.E.L.D. Allieret",
+    "saeson": 5,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Deke Shaw",
+    "rolle": "Handelsmand / Teknolog / S.H.I.E.L.D. Agent",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Flint",
+    "rolle": "Inhuman Modstandsmand",
+    "saeson": 5,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Kasius",
+    "rolle": "Kree Hersker af The Lighthouse",
+    "saeson": 5,
+    "race": "Kree"
+  },
+  {
+    "navn": "Ruby Hale",
+    "rolle": "Hydra Assassin / Inhuman Eksperiment",
+    "saeson": 5,
+    "race": "Menneske / Inhuman"
+  },
+  {
+    "navn": "General Hale",
+    "rolle": "Hydra-uddannet General / Militærleder",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Sinara",
+    "rolle": "Kree Kriger / Kasius' Håndlanger",
+    "saeson": 5,
+    "race": "Kree"
+  },
+  {
+    "navn": "Tess",
+    "rolle": "Lighthouse Modstandsmedlem",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Izel",
+    "rolle": "Alien Entitet / Skaber af Shrike",
+    "saeson": 6,
+    "race": "Ikke-fysisk Væsen"
+  },
+  {
+    "navn": "Sarge (Pachakutiq)",
+    "rolle": "Militærleder / Alien Entitet",
+    "saeson": 6,
+    "race": "Ikke-fysisk Væsen"
+  },
+  {
+    "navn": "Malachi",
+    "rolle": "Chronicom Hunter",
+    "saeson": 6,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Marcus Benson",
+    "rolle": "Forsker / Professor",
+    "saeson": 6,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Keller",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 6,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Kora",
+    "rolle": "Inhuman / Daisys halvsøster",
+    "saeson": 7,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Daniel Sousa",
+    "rolle": "SSR Agent / S.H.I.E.L.D. Agent",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Nathaniel Malick",
+    "rolle": "Anarkist / Hydra Allieret / Inhuman-Evnebruger",
+    "saeson": 7,
+    "race": "Menneske / Inhuman-evner"
+  },
+  {
+    "navn": "Wilfred Malick",
+    "rolle": "Hydra Leder",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Sibyl",
+    "rolle": "Chronicom Seer / Strateg",
+    "saeson": 7,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Kora",
+    "rolle": "Inhuman / Energimanipulator",
+    "saeson": 7,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "John Garrett",
+    "rolle": "Hydra Leder / Tidslinje-variant",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+
+  {
+    "navn": "Maria Hill",
+    "rolle": "S.H.I.E.L.D. Deputy Director / Agent",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Nick Fury",
+    "rolle": "S.H.I.E.L.D. Director / Spion",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Jasper Sitwell",
+    "rolle": "S.H.I.E.L.D. Agent / Hydra Agent",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Eric Koenig",
+    "rolle": "S.H.I.E.L.D. Agent / Providence Administrator",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Marcus Daniels",
+    "rolle": "Superpowered Kriminel / Blackout",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Akela Amador",
+    "rolle": "S.H.I.E.L.D. Agent / Lejesoldat",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Hale",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Reina",
+    "rolle": "Centipede Scientist / Forsker",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Donnie Gill (Blizzard)",
+    "rolle": "S.H.I.E.L.D. Academy Cadet / Cryokinetisk",
+    "saeson": 1,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Marcus Scarlotti",
+    "rolle": "Hydra Agent / Lejesoldat",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Isabelle Hartley",
+    "rolle": "S.H.I.E.L.D. Agent / Special Operations",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Kara Palamas",
+    "rolle": "S.H.I.E.L.D. Agent / Hydra Agent",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Christian Ward",
+    "rolle": "Politiker / Senator",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Cal",
+    "rolle": "Inhuman Far / Videnskabsmand",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Gonzales",
+    "rolle": "S.H.I.E.L.D. Director / Militærleder",
+    "saeson": 2,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Katya Beljakov",
+    "rolle": "Inhuman Barn / Telepatisk Påvirkning",
+    "saeson": 2,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Alisha Whitley",
+    "rolle": "Inhuman / Kloningsevne",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Joey Gutierrez",
+    "rolle": "S.H.I.E.L.D. Agent / Inhuman",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Andrew Garner",
+    "rolle": "Psykolog / Inhuman Lash",
+    "saeson": 3,
+    "race": "Menneske / Inhuman"
+  },
+  {
+    "navn": "Lash",
+    "rolle": "Inhuman Jæger",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Lucio",
+    "rolle": "Inhuman / Colombiansk Politibetjent",
+    "saeson": 3,
+    "race": "Inhuman"
+  },
+  {
+    "navn": "Werner von Strucker",
+    "rolle": "Hydra Agent / Rekrut",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Kebo",
+    "rolle": "Hydra Agent / Lejesoldat",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Piper",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Prince",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 3,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Eli Morrow",
+    "rolle": "Ingeniør / Darkhold Forsker",
+    "saeson": 4,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Lucy Bauer",
+    "rolle": "Forsker / Spøgelsesvæsen",
+    "saeson": 4,
+    "race": "Menneske / Spøgelsesvæsen"
+  },
+  {
+    "navn": "Joseph Bauer",
+    "rolle": "Forsker / Darkhold Ekspert",
+    "saeson": 4,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Gabriel Reyes",
+    "rolle": "Robbie Reyes' bror",
+    "saeson": 4,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Coulson's S.H.I.E.L.D. Team",
+    "rolle": "S.H.I.E.L.D. Special Operations",
+    "saeson": 4,
+    "race": "Mennesker"
+  },
+  {
+    "navn": "Virgil",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Tess",
+    "rolle": "Lighthouse Overlevende / Modstandsmedlem",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Sinara",
+    "rolle": "Kree Kriger / Kasius' Håndlanger",
+    "saeson": 5,
+    "race": "Kree"
+  },
+  {
+    "navn": "General Hale",
+    "rolle": "Militærleder / Hydra Agent",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Alistair Fitz",
+    "rolle": "Leo Fitz' far / Forretningsmand",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Davis",
+    "rolle": "S.H.I.E.L.D. Agent / Pilot",
+    "saeson": 5,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Noah",
+    "rolle": "S.H.I.E.L.D. Agent / Chronicom Allieret",
+    "saeson": 5,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Davis",
+    "rolle": "S.H.I.E.L.D. Agent / Security Specialist",
+    "saeson": 6,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Marcus Benson",
+    "rolle": "Professor / Forsker",
+    "saeson": 6,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Keller",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 6,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Malachi",
+    "rolle": "Chronicom Hunter / Agent",
+    "saeson": 6,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Atarah",
+    "rolle": "Chronicom Leder",
+    "saeson": 6,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Ba'al-Gad",
+    "rolle": "Kree Kriger",
+    "saeson": 6,
+    "race": "Kree"
+  },
+  {
+    "navn": "Jaco",
+    "rolle": "Sarge's Alien Team / Lejesoldat",
+    "saeson": 6,
+    "race": "Alien"
+  },
+  {
+    "navn": "Snowflake",
+    "rolle": "Sarge's Team / Lejesoldat",
+    "saeson": 6,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Pax",
+    "rolle": "Sarge's Team / Lejesoldat",
+    "saeson": 6,
+    "race": "Alien"
+  },
+  {
+    "navn": "Sibyl",
+    "rolle": "Chronicom Seer / Strateg",
+    "saeson": 7,
+    "race": "Chronicom"
+  },
+  {
+    "navn": "Wilfred Malick",
+    "rolle": "Hydra Leder",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Ernest 'Koenig' Koenig",
+    "rolle": "Bar-ejer / S.H.I.E.L.D. Allieret",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Billy Koenig",
+    "rolle": "S.H.I.E.L.D. Agent / Koenig Familie",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Sam Koenig",
+    "rolle": "S.H.I.E.L.D. Agent",
+    "saeson": 7,
+    "race": "Menneske"
+  },
+  {
+    "navn": "Thurston",
+    "rolle": "Aktivist / Performer",
+    "saeson": 7,
+    "race": "Menneske"
+  }
+
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "navn": "Dart Monkey",
+    "rolle": "Grundlæggende projektilangriber",
+    "type": "monkey",
+    "kategori": "Primary"
+  },
+  {
+    "navn": "Boomerang Monkey",
+    "rolle": "Kaster boomerangs, der kan ramme flere Bloons",
+    "type": "monkey",
+    "kategori": "Primary"
+  },
+  {
+    "navn": "Bomb Shooter",
+    "rolle": "Eksplosiv tower mod grupper og MOABs",
+    "type": "monkey",
+    "kategori": "Primary"
+  },
+  {
+    "navn": "Tack Shooter",
+    "rolle": "Skyder projektiler i flere retninger",
+    "type": "monkey",
+    "kategori": "Primary"
+  },
+  {
+    "navn": "Ice Monkey",
+    "rolle": "Fryser og bremser Bloons",
+    "type": "monkey",
+    "kategori": "Primary"
+  },
+  {
+    "navn": "Glue Gunner",
+    "rolle": "Limer og bremser Bloons",
+    "type": "monkey",
+    "kategori": "Primary"
+  },
+  {
+    "navn": "Sniper Monkey",
+    "rolle": "Langdistanceangriber med høj præcision",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Monkey Sub",
+    "rolle": "Vandbaseret tower med angreb og støtte",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Monkey Buccaneer",
+    "rolle": "Vandbaseret angrebstower med kanoner og skibe",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Monkey Ace",
+    "rolle": "Flyvende tower med angreb fra luften",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Heli Pilot",
+    "rolle": "Mobil flyvende tower med forskellige angrebstyper",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Mortar Monkey",
+    "rolle": "Artilleri-tower der bombarderer bestemte områder",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Dartling Gunner",
+    "rolle": "Direkte beskydning med hurtige projektiler",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Wizard Monkey",
+    "rolle": "Magisk tower med ild, lyn og mørk magi",
+    "type": "monkey",
+    "kategori": "Magic"
+  },
+  {
+    "navn": "Super Monkey",
+    "rolle": "Ekstremt hurtig og kraftfuld angriber",
+    "type": "monkey",
+    "kategori": "Magic"
+  },
+  {
+    "navn": "Ninja Monkey",
+    "rolle": "Hurtig angriber med camouflage-detektion og debuffs",
+    "type": "monkey",
+    "kategori": "Magic"
+  },
+  {
+    "navn": "Alchemist",
+    "rolle": "Buffs andre monkeys og angriber med potions",
+    "type": "monkey",
+    "kategori": "Magic"
+  },
+  {
+    "navn": "Druid",
+    "rolle": "Naturbaseret tower med flere specialiseringer",
+    "type": "monkey",
+    "kategori": "Magic"
+  },
+  {
+    "navn": "Spike Factory",
+    "rolle": "Producerer spikes, der beskytter banen",
+    "type": "monkey",
+    "kategori": "Support"
+  },
+  {
+    "navn": "Monkey Village",
+    "rolle": "Giver støtte, buffs og utility til andre towers",
+    "type": "bygning",
+    "kategori": "Support"
+  },
+  {
+    "navn": "Engineer Monkey",
+    "rolle": "Bruger sentries, traps og støtteevner",
+    "type": "monkey",
+    "kategori": "Support"
+  },
+  {
+    "navn": "Beast Handler",
+    "rolle": "Kontrollerer dyr, der angriber Bloons",
+    "type": "monkey",
+    "kategori": "Military"
+  },
+  {
+    "navn": "Banana Farm",
+    "rolle": "Producerer ekstra penge",
+    "type": "bygning",
+    "kategori": "Support"
+  },
+  {
+    "navn": "Gwendolin",
+    "rolle": "Hero med ildbaserede angreb og buffs",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Striker Jones",
+    "rolle": "Hero med eksplosiv-specialisering og Bomb Shooter-support",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Obyn Greenfoot",
+    "rolle": "Naturmagi og støtte til Magic Monkeys",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Captain Churchill",
+    "rolle": "Tanky Hero med kraftig kanon og høj MOAB-skade",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Benjamin",
+    "rolle": "Økonomisk Hero der genererer penge og hacker Bloons",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Ezili",
+    "rolle": "Dark Magic Hero med stærke debuffs og MOAB-evner",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Pat Fusty",
+    "rolle": "Stærk nærkampshero med buffs til nærliggende towers",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Adora",
+    "rolle": "Kraftfuld Holy Hero med høj skade",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Admiral Brickell",
+    "rolle": "Naval Hero med stærk støtte til vandtowers",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Etienne",
+    "rolle": "Drone-baseret Hero med global Camo Detection",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Sauda",
+    "rolle": "Nærkampshero med ekstrem Bloon-rydning",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Psi",
+    "rolle": "Psionisk Hero med crowd control og Bloon-destruktion",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Geraldo",
+    "rolle": "Merchant Hero med magiske og taktiske genstande",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Corvus",
+    "rolle": "Spirituel spellcaster Hero med avancerede besværgelser",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Rosalia",
+    "rolle": "Flyvende Hero med laser- og raketbaserede angreb",
+    "type": "hero",
+    "kategori": "Hero"
+  },
+  {
+    "navn": "Apex Plasma Master",
+    "rolle": "Paragon baseret på Dart Monkey",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Glaive Dominus",
+    "rolle": "Paragon baseret på Boomerang Monkey",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Nautic Siege Core",
+    "rolle": "Paragon baseret på Monkey Sub",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Navarch of the Seas",
+    "rolle": "Paragon baseret på Monkey Buccaneer",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Goliath Doomship",
+    "rolle": "Paragon baseret på Monkey Ace",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Magus Perfectus",
+    "rolle": "Paragon baseret på Wizard Monkey",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Ascended Shadow",
+    "rolle": "Paragon baseret på Ninja Monkey",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Master Builder",
+    "rolle": "Paragon baseret på Engineer Monkey",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Megalodon",
+    "rolle": "Paragon baseret på Beast Handler",
+    "type": "paragon",
+    "kategori": "Paragon"
+  },
+  {
+    "navn": "Ballistic Obliteration Missile",
+    "rolle": "Paragon baseret på Bomb Shooter",
+    "type": "paragon",
+    "kategori": "Paragon"
+  }
+]
